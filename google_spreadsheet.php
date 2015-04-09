@@ -1,4 +1,7 @@
 <?php
+//Just Download this Php Script and Place it in htdocs folder in xampp
+//Then Run in your browser
+//
 header('Content-type: application/json');
  
 // Set your CSV feed
