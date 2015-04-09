@@ -2,7 +2,7 @@
 header('Content-type: application/json');
  
 // Set your CSV feed
-$feed = 'https://docs.google.com/spreadsheets/d/1TcGzsZpH75484RfNWmI8XHLGtIqeS9RWKsUiAH5arXI/edit?pli=1#gid=0';
+$feed = 'LINK_OF_YOUR_SPREADSHEET_URL';
  
 // Arrays we'll use later
 $keys = array();
