@@ -5,7 +5,7 @@
 header('Content-type: application/json');
  
 // Set your CSV feed
-$feed = 'LINK_OF_YOUR_SPREADSHEET_URL';
+$feed = 'LINK_OF_YOUR_SPREADSHEET_URL'
  
 // Arrays we'll use later
 $keys = array();
