@@ -2,7 +2,7 @@
 //Just Download this Php Script and Place it in htdocs folder in xampp.
 //Then Run in your browser.
 //Make Sure to get your link of your document from google spreadsheet.
-header('Content-type: application/json')
+header('Content-type: application/json');
  
 // Set your CSV feed
 $feed = 'LINK_OF_YOUR_SPREADSHEET_URL';
