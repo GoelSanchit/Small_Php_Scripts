@@ -1,2 +1,3 @@
 # Small_Php_Scripts
-Quality Php Examples...FOR YOUR CAPABILITY
+googlespreadsheet - converts the spreadsheet text into the json format.
+geosearch - search the text like disneyland,ca and get images from instagram for that particular location.
