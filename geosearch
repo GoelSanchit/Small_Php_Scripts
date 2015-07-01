@@ -19,7 +19,7 @@ if (!empty($_GET['location'])){
     'api.instagram.com/v1/media/search' .
     '?lat=' . $lat .
     '&lng=' . $lng .
-    '&client_id=fa30fed5263b4811946cd16b5b647372'; //replace "CLIENT-ID"
+    '&client_id=REPLACE_WITH_CLIENT-ID'; //replace "CLIENT-ID"
   $instagram_json = file_get_contents($instagram_url);
   $instagram_array = json_decode($instagram_json, true);
 }
