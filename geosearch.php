@@ -23,7 +23,7 @@ if (!empty($_GET['location'])){
   $instagram_json = file_get_contents($instagram_url);
   $instagram_array = json_decode($instagram_json, true);
 }
-?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
