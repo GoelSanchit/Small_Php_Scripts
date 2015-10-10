@@ -7,7 +7,7 @@ $name=$_POST['name'];
 $age =$_POST['age'];
 $mobile = $_POST['mobile'];
 
-mysql_query("insert into myTableName(name,age,mobile) values('$message')");
+mysql_query("insert into myTableName(name,age,mobile) values('$name','$age','$mobile')");
 
 mysql_close($con);
 ?>
