@@ -1,7 +1,7 @@
 <?php
 // Note: Replace 'api-eu' with 'api-us', if you are connecting to US cloud!
 $url = 'https://api-eu.clusterpoint.com/v4/1081/todo';
-$userPassword = 'username:sanchit';
+$userPassword = 'username:password';
 $ch = curl_init();
 $query = 'SELECT * FROM todo';
 curl_setopt($ch, CURLOPT_URL, $url . '/_query');
