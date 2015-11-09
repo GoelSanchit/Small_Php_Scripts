@@ -1,7 +1,7 @@
 <?php
 
-$con=mysql_connect('Host_Nameamerd("cannot connect");;
-mysql_select_db("a9431695_insert" , $con);
+$con=mysql_connect('Host_Name','User_Name','Password')or die("cannot connect");;
+mysql_select_db("Data_Base_Name" , $con);
 
 $name=$_POST['name'];
 $mobile=$_POST['mobile'];
