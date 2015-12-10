@@ -1,4 +1,4 @@
-<?ph
+<?php
 
 include("index.html");
 
