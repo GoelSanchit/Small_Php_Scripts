@@ -9,5 +9,5 @@ $mobile = $_POST['mobile'];
 
 mysql_query("insert into myTableName(name,age,mobile) values('$name','$age','$mobile')");
 
-mysql_close($con);
+mysql_close($con)
 ?>
