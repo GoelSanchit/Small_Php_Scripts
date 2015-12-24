@@ -5,4 +5,4 @@ Geosearch - search the text like disneyland,ca and get images from instagram for
 
 index.html & upload.php contributes to Upload Specific files to webserver...
 
-Ziu_boys fetch data from clusterpoint
+Ziu_boys & Ziu_girls fetch data from clusterpoint
