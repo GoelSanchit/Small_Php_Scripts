@@ -1,4 +1,4 @@
-<?ph
+<?php
 
 $con=mysql_connect('Host_Name','User_Name','Password')or die("cannot connect");;
 mysql_select_db("Data_Base_Name" , $con);
