@@ -6,7 +6,9 @@ $database = 'todo';
 // Note: Replace 'api-eu' with 'api-us', if you are connecting to US cloud!
 $url = 'https://api-us.clusterpoint.com/v4/' . $accountId . '/' . $database;
 $userPassword = 'username:password';
+
 // More about INSERT: https://www.clusterpoint.com/docs/?page=Insert
+
 if (isset($_POST['new_priority'])) {
 	// insert new to-do item
 	$doc = array(
