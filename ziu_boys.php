@@ -1,4 +1,5 @@
 <?php
+
 // Note: Replace 'api-eu' with 'api-us', if you are connecting to US cloud!
 $url = 'https://api-us.clusterpoint.com/v4/101893/todo';
 $userPassword = 'username:password';
