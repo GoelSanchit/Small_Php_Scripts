@@ -1,5 +1,4 @@
 <?php
-
 include("index.html");
 
 if($_POST['submit']) {
