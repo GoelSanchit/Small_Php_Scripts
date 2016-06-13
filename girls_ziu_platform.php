@@ -1,4 +1,5 @@
 <?php
+
 // config
 $accountId = account number of clusterpoint;
 $database = 'todo';
