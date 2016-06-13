@@ -1,4 +1,3 @@
-
 <?php
 // config
 $accountId = please provide your id number of clusterpoint;
