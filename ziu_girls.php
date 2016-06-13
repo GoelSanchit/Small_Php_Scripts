@@ -19,5 +19,4 @@ if ($errorMsg) {
 curl_close($ch);
 
 echo json_encode($response->results);
-
 ?>
